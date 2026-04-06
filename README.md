@@ -1,6 +1,7 @@
-# Energy Grid Load Balancer — ACPL v6
+# GridACPL — Energy Grid Load Balancing Benchmark 
 
-Adaptive Consequence-Penalized Learning applied to power grid management.
+GridACPL is an energy grid benchmark built on Adaptive Consequence-Penalized Learning applied to power grid management. 
+Designed to study consequence-aware reinforcement learning under delayed system stress, fluctuating demand, and operational constraints.
 
 ## Quick Start
 
