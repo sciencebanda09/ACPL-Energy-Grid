@@ -58,3 +58,14 @@ gas_delta, coal_delta, market_action, load_shed, battery_action
 - `grid_hard`    — high demand (training + eval)
 - `grid_storm`   — extreme renewable variability (unseen)
 - `grid_peak`    — heatwave +25% demand (unseen)
+
+## Sample Results
+
+### Training Curves
+![Training Curves](results_sample/01_training_curves.png)
+
+### State Conditioned Lambda
+![Lambda Heatmap](results_sample/03_lambda_heatmap.png)
+
+### Benchmark Comparison
+![Benchmark Comparison](results_sample/05_benchmark_comparison.png)
